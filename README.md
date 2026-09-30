@@ -61,7 +61,7 @@ Aplicação web de restaurantes desenvolvida com React e TypeScript, criada para
 **⚙️ O que faz**
 Lista os restaurantes disponíveis, exibe o perfil de cada um com o cardápio em um modal e permite adicionar pratos ao carrinho de compras.
 
-**🔗 Repositório:** [github.com/DevGlener/restaurante-react](https://github.com/DevGlener/restaurante-react)
+**🔗 Repositório:** [github.com/DevGlener/restaurante-react](https://github.com/DevGlener/restaurante-react) &nbsp;|&nbsp; **🌐 Demo:** [restaurante-react-one.vercel.app](https://restaurante-react-one.vercel.app/)
 
 **🧰 Tecnologias**
 
@@ -85,7 +85,7 @@ Resumo do projeto em 2 ou 3 linhas.
 **⚙️ O que faz**
 O que o projeto faz, em 2 ou 3 linhas.
 
-**🔗 Repositório:** [github.com/DevGlener/NOME_DO_REPOSITORIO](https://github.com/DevGlener/NOME_DO_REPOSITORIO)
+**🔗 Repositório:** [github.com/DevGlener/NOME_DO_REPOSITORIO](https://github.com/DevGlener/NOME_DO_REPOSITORIO) &nbsp;|&nbsp; **🌐 Demo:** [link-da-demo.vercel.app](https://link-da-demo.vercel.app/)
 
 **🧰 Tecnologias**
 
